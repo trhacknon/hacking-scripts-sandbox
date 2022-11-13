@@ -35,7 +35,7 @@ function ftpbruter() {
 
         } else {
             echo "Password encontrado\n";
-            echo "Efetuadas " . $i . " tentativas\n";
+            echo "Efetuadas " . $i . " tentatives\n";
             echo "User: " . $user . " Password: " . $pass . "\n";
             break;
         }
